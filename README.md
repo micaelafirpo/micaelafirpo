@@ -1,4 +1,6 @@
-### Hi there 👋
+<div id="header" align="center">
+  <img src="https://media3.giphy.com/media/1sgetPM00wWqJpVUTl/giphy.gif?cid=790b7611c2854140ad1114b3984ee3230114a71232834342&rid=giphy.gif&ct=s" width="400"/>
+</div>
 
 <!--
 **micaelafirpo/micaelafirpo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
